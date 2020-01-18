@@ -15,7 +15,7 @@
 
  Scan the QR code and enter the password 1111
 
-![iOS QR](./imgs/00-COACHTV.png)
+![android QR](./imgs/00-COACHTV.png)
 
 ## iOS App Operation Instructions
 
