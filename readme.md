@@ -1,38 +1,34 @@
-# 操作说明
+# Instructions
 
-## 下载 app
+## Download app
 
 1. iOS App.
 2. android TV App.
 
-## iOS 下载说明
+## How to install iOS App
 
-1. 扫描二维码，并输入密码 123456。
-
-扫描下方二维码
+ Scan the QR code and enter the password 123456
 
 ![iOS QR](./imgs/00-coach_down.png)
 
-## android 下载说明
+## How to install Android App
 
-1. 扫描二维码，并输入密码 1111 。
-
-扫描下方二维码
+ Scan the QR code and enter the password 1111
 
 ![iOS QR](./imgs/00-COACHTV.png)
 
-## iOS App 操作说明
+## iOS App Operation Instructions
 
-1. 给 hub 配网, 配网成功后，hub 通过 wifi 将收集到的数据传递到后台。
-2. 添加用户信息。
-3. 将添加的用户信息绑定到搜索到的心率设备。
-4. 显示绑定的设备数据。
+1. Configure the hub to the network. After the network is successfully configured, the hub transmits the collected data to the background via wifi.
+2. Add user information.
+3. Bind the added user information to the searched heart rate device.
+4. Display bound device data
 
-## 添加用户信息
+## Add user information
 
 ![add user](./imgs/01-add-user.PNG)
 
-## 配置 hub 的 wifi
+## Configure hub wifi connection
 
 step-01:
 ![bind device](./imgs/02-setup-hub.PNG)
@@ -43,7 +39,7 @@ step-02:
 step-03:
 ![bind device](./imgs/04-setup-hub-wifi.PNG)
 
-## 绑定手环设备
+## Binding the bracelet device
 
 step-01:
 ![bind bracelet](./imgs/05-01-bind-hr-device.PNG)
