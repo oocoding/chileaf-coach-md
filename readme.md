@@ -17,6 +17,8 @@
 
 ![android QR](./imgs/00-COACHTV.png)
 
+Download the Android installation package at ```https://www.pgyer.com/COACHTV``` and copy it to the Android TV or Android tablet. Install the corresponding installation package and open it.
+
 ## iOS App Operation Instructions
 
 1. Configure the hub to the network. After the network is successfully configured, the hub transmits the collected data to the background via wifi.
